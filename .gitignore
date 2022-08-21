@@ -1,0 +1,9 @@
+bitcoin
+lightning
+cliche
+poncho
+electrumx
+data
+*.tar.gz
+yarn.*
+node_modules
