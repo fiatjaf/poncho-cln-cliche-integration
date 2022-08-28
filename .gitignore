@@ -7,3 +7,4 @@ data
 *.tar.gz
 yarn.*
 node_modules
+bun.*
